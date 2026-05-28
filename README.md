@@ -8,8 +8,6 @@ Hi there! I'm **Pavani**, an aspiring software developer who is interested in bu
 
 - 🔭 I’m currently working on **Smart Crop Recommendation System**
 - 🌱 I’m learning **Java, JavaScript, Python, and MySQL**
-- 👯 I’m looking to collaborate on **web development and beginner-friendly open source projects**
-- 💬 Ask me about **Java, JavaScript, HTML, CSS, and basic Python**
 - 📫 How to reach me: **pavanidaram23@gmail.com**
 - ⚡ Fun fact: I enjoy learning new tech and building mini projects
 
